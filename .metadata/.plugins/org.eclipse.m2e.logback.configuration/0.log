@@ -1,0 +1,55 @@
+2016-04-13 10:40:47,865 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appium:android:0.0.1-SNAPSHOT @ /Users/agolubev1/Downloads/PGBrand/mobile/pom.xml.
+2016-04-13 10:40:48,301 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /android/src/main/java
+2016-04-13 10:40:48,302 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /android/src/test/java
+2016-04-13 10:40:48,438 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-04-13 10:40:49,407 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appium:android:0.0.1-SNAPSHOT @ /Users/agolubev1/Downloads/PGBrand/mobile/pom.xml.
+2016-04-13 10:40:49,849 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-13 10:40:49,849 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-13 10:40:49,851 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-13 10:40:49,851 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-13 10:47:17,275 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-13 10:47:17,275 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-13 10:47:17,277 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-13 10:47:17,277 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 11:49:00,997 [Worker-136] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: brand:test:0.0.1-SNAPSHOT @ /Users/agolubev1/Downloads/PGBrand/mobile/pom.xml.
+2016-04-14 11:49:01,557 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/fluent-hc/4.2.1/fluent-hc-4.2.1.pom
+2016-04-14 11:49:01,580 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/fluent-hc/4.2.1/fluent-hc-4.2.1.pom
+2016-04-14 11:49:01,631 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/fluent-hc/4.2.1/fluent-hc-4.2.1.jar
+2016-04-14 11:49:01,659 [Worker-136] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/fluent-hc/4.2.1/fluent-hc-4.2.1.jar
+2016-04-14 11:49:01,828 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:49:01,828 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 11:49:01,829 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:49:01,829 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 11:49:03,367 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:49:03,367 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 11:49:03,368 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:49:03,368 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 11:53:48,385 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:53:48,385 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 11:53:48,387 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:53:48,387 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 11:53:49,407 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:53:49,407 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 11:53:49,407 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:53:49,407 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 11:57:49,925 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:57:49,925 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 11:57:49,926 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 11:57:49,926 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 12:26:57,696 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:26:57,696 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/main/resources
+2016-04-14 12:26:57,697 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:26:57,698 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PGBrand/mobile/src/test/resources
+2016-04-14 12:28:18,566 [Worker-158] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: brand:test:0.0.1-SNAPSHOT @ /Users/agolubev1/Downloads/PnB/mobile/pom.xml.
+2016-04-14 12:28:19,139 [Worker-158] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2016-04-14 12:28:19,139 [Worker-158] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2016-04-14 12:28:19,194 [Worker-158] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-04-14 12:28:19,529 [Worker-151] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: brand:test:0.0.1-SNAPSHOT @ /Users/agolubev1/Downloads/PnB/mobile/pom.xml.
+2016-04-14 12:28:19,716 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:28:19,716 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/main/resources
+2016-04-14 12:28:19,717 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:28:19,717 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/test/resources
+2016-04-14 12:28:20,944 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:28:20,945 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/main/resources
+2016-04-14 12:28:20,946 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:28:20,946 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/test/resources
