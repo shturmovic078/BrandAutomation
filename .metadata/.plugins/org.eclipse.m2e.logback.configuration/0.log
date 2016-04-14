@@ -53,3 +53,7 @@
 2016-04-14 12:28:20,945 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/main/resources
 2016-04-14 12:28:20,946 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-04-14 12:28:20,946 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/test/resources
+2016-04-14 12:32:21,487 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:32:21,488 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/main/resources
+2016-04-14 12:32:21,489 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-14 12:32:21,489 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Downloads/PnB/mobile/src/test/resources
