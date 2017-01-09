@@ -2852,3 +2852,6 @@ java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfigu
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2017-01-09 18:08:17.264
 !MESSAGE No projects found for [/Users/agolubev1/Downloads/PnB/mobile/ProductDetails.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-01-09 18:13:41.695
+!MESSAGE No projects found for [/Users/agolubev1/Downloads/PnB/mobile/ProductDetails.xml]
